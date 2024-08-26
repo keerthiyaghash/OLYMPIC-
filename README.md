@@ -57,7 +57,14 @@ responsive_card
 </html>
 
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+
+file:///C:/Users/SKY/Desktop/DIVPROJECT1/DIVPROJECT1.html
+
+
+
+
+[Uploading DIVP@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
 
 *{
     font-family: 'Poppins', sans-serif;
@@ -148,6 +155,12 @@ p {
 
 
 
+
+
+
+
+
+ROJECT1.css…]()
 
 
 
